@@ -123,9 +123,9 @@
     },
     {
       "name": "provider",
-      "rootUri": "file:///Users/rohit.kumar/Workspace/SDKs/flutter/.pub-cache/hosted/pub.dartlang.org/provider-4.0.5",
+      "rootUri": "file:///Users/rohit.kumar/Workspace/SDKs/flutter/.pub-cache/hosted/pub.dartlang.org/provider-5.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.2"
+      "languageVersion": "2.12"
     },
     {
       "name": "quiver",
@@ -218,7 +218,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2021-03-15T00:57:33.558594Z",
+  "generated": "2021-03-15T01:08:33.903236Z",
   "generator": "pub",
   "generatorVersion": "2.12.0"
 }
