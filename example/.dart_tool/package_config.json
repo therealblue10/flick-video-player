@@ -56,6 +56,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "ffi",
+      "rootUri": "file:///Users/rohit.kumar/Workspace/SDKs/flutter/.pub-cache/hosted/pub.dartlang.org/ffi-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flick_video_player",
       "rootUri": "../../",
       "packageUri": "lib/",
@@ -207,9 +213,39 @@
     },
     {
       "name": "wakelock",
-      "rootUri": "file:///Users/rohit.kumar/Workspace/SDKs/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock-0.1.4+2",
+      "rootUri": "file:///Users/rohit.kumar/Workspace/SDKs/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock-0.5.0+2",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "wakelock_macos",
+      "rootUri": "file:///Users/rohit.kumar/Workspace/SDKs/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock_macos-0.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "wakelock_platform_interface",
+      "rootUri": "file:///Users/rohit.kumar/Workspace/SDKs/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock_platform_interface-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "wakelock_web",
+      "rootUri": "file:///Users/rohit.kumar/Workspace/SDKs/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock_web-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "wakelock_windows",
+      "rootUri": "file:///Users/rohit.kumar/Workspace/SDKs/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock_windows-0.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "win32",
+      "rootUri": "file:///Users/rohit.kumar/Workspace/SDKs/flutter/.pub-cache/hosted/pub.dartlang.org/win32-2.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "example",
@@ -218,7 +254,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2021-03-15T01:08:33.903236Z",
+  "generated": "2021-03-15T01:09:43.304727Z",
   "generator": "pub",
   "generatorVersion": "2.12.0"
 }
